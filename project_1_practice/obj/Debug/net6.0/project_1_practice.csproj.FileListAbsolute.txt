@@ -1,0 +1,15 @@
+/Users/brooklynn/Documents/cse_210/project_1_practice/bin/Debug/net6.0/project_1_practice
+/Users/brooklynn/Documents/cse_210/project_1_practice/bin/Debug/net6.0/project_1_practice.deps.json
+/Users/brooklynn/Documents/cse_210/project_1_practice/bin/Debug/net6.0/project_1_practice.runtimeconfig.json
+/Users/brooklynn/Documents/cse_210/project_1_practice/bin/Debug/net6.0/project_1_practice.dll
+/Users/brooklynn/Documents/cse_210/project_1_practice/bin/Debug/net6.0/project_1_practice.pdb
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/project_1_practice.csproj.AssemblyReference.cache
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/project_1_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/project_1_practice.AssemblyInfoInputs.cache
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/project_1_practice.AssemblyInfo.cs
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/project_1_practice.csproj.CoreCompileInputs.cache
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/project_1_practice.dll
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/refint/project_1_practice.dll
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/project_1_practice.pdb
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/project_1_practice.genruntimeconfig.cache
+/Users/brooklynn/Documents/cse_210/project_1_practice/obj/Debug/net6.0/ref/project_1_practice.dll
